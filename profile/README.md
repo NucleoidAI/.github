@@ -1,3 +1,3 @@
 # Nucleoid &middot; Low-code framework for Node.js
 
-![Look! Up in the sky!](https://drive.google.com/uc?export=view&id=1bNaHtwcxrKSTjlJw4RAVRw-ImkC86juX)
+![Banner](https://drive.google.com/uc?export=view&id=1b3E06HR2SPtwFn1hngcON13xXFCZl7NI)
