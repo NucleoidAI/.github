@@ -1,3 +1,3 @@
-# Nucleoid &middot; Neuro-Symbolic AI with Declarative Logic
+# Nucleoid &middot; Neuro-Symbolic AI with Logic Graph
 
 ![Banner](/media/banner.png)
